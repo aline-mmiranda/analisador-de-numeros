@@ -1,47 +1,47 @@
 body {
-    background: rgb(200, 142, 255);
-    font: normal 15pt Arial;
+  background: rgb(200, 142, 255);
+  font: normal 15pt Arial;
 }
 
 header {
-    color: white;
-    text-align: center;
+  color: white;
+  text-align: center;
 }
 
 section {
-    background: white;
-    border-radius: 10px;
-    padding: 15px;
-    width: 500px;
-    margin: auto;
-    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.359);
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+  width: 500px;
+  margin: auto;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.359);
 }
 
 select#txtl {
-    width: 50%;
+  width: 50%;
 }
 
 footer {
-    color: white;
-    text-align: center;
-    font-style: italic;
+  color: white;
+  text-align: center;
+  font-style: italic;
 }
 
 .social-buttons {
-    margin-top: 20px;
-  }
+  margin-top: 20px;
+}
 
-  .btn {
-    text-decoration: none;
-    border-radius: 8px;
-    font-weight: bold;
-    color: #fff;
-  }
+.btn {
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  color: #fff;
+}
 
-  .github:hover {
-    color: #24292e;
-  }
+.github:hover {
+  color: #24292e;
+}
 
-  .linkedin:hover {
-    color: #0a5d8f;
-  }
+.linkedin:hover {
+  color: #0a5d8f;
+}
